@@ -8,7 +8,7 @@
     <script type="text/javascript">
 
     function setFilename(name) {
-        document.getElementById('pieceName').innerText = 'File: '+name;
+        document.getElementById('pieceName').innerHTML = '<div>File: <a href='+name+'>'+name+'</a></div>';
     }
 
     function updatePieces(file) {
