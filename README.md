@@ -3,7 +3,7 @@
 `piece-packager` is a collection of over 80 chess piece sets in SVG format.
 If color-variants are included, the total exceeds 280 sets.
 
-The chess piece sets can be [viewed online](./viewer.html).
+The chess piece sets can be [viewed online](https://deverac.github.io/piece-packager/viewer.html).
 
 Pre-packaged chess-piece sets can be found in the `out` directory.
 
