@@ -1,7 +1,8 @@
 # piece-packager
 
 `piece-packager` is a collection of over 80 chess piece sets in SVG format.
-If color-variants are included, the total exceeds 280 sets.
+If color-variants are included, the total exceeds 280 sets. The SVG files
+will work with [cm-chessboard](https://github.com/shaack/cm-chessboard)
 
 The chess piece sets can be [viewed online](https://deverac.github.io/piece-packager/viewer.html).
 
