@@ -1,0 +1,240 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewbox="0.0 0.0 180.0 180.0">
+  <g id="bb" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M87.8904 142.266C86.7897 144.468 30.6477 171.988 30.6477 171.988L77.0382 166.117L87.8904 142.266Z" fill="url(#bbpaint0_linear_1_73)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M91.0125 142.266C92.1132 144.468 148.255 171.988 148.255 171.988L99.1215 166.117L91.0125 142.266Z" fill="url(#bbpaint1_linear_1_73)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M67.5297 128.001C66.2922 130.476 52.2558 145.386 52.2558 145.386L122.26 150.204L104.417 121.266L67.5297 128.001Z" fill="url(#bbpaint2_linear_1_73)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M88.848 32.0697C87.6096 34.5447 41.4504 135.985 41.4504 135.985L136.967 127.572L88.848 32.0697ZM98.1378 64.2402L105.432 80.2242L67.8033 117.493C67.8033 117.493 96.9003 66.7161 98.1378 64.2402Z" fill="url(#bbpaint3_linear_1_73)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M89.262 15.075C88.0236 17.5518 75.168 38.5389 75.168 38.5389L104.524 43.0659L89.262 15.075Z" fill="url(#bbpaint4_linear_1_73)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="bbpaint0_linear_1_73" x1="29.0025" y1="92.3319" x2="150.175" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bbpaint1_linear_1_73" x1="25.299" y1="92.3319" x2="146.472" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bbpaint2_linear_1_73" x1="26.9451" y1="92.3319" x2="148.117" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bbpaint3_linear_1_73" x1="26.9451" y1="92.3319" x2="148.117" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bbpaint4_linear_1_73" x1="66.3741" y1="35.4177" x2="103.084" y2="46.3887" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="bk" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M82.9044 22.6305V34.8957H66.735V48.8907H82.9035V74.0844H95.8113V48.8907H115.232V34.8957H95.8113V22.6305H82.9044Z" fill="url(#bkpaint0_linear_1_89)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M105.092 94.869C146.181 72.8928 133.014 114.761 112.622 127.704C99.4842 136.042 92.6154 104.578 99.585 80.9487L81.9774 81.1611C88.47 102.072 84.51 134.205 70.2261 127.704C44.7813 116.123 35.3223 73.5138 75.9465 94.8897C52.47 46.8999 15.9066 65.25 19.3365 89.64C23.0643 116.134 53.3025 139.974 52.6887 150.596H128.565C127.35 138.289 161.461 112.982 162.553 88.92C163.601 65.3769 122.969 47.1429 105.092 94.869V94.869Z" fill="url(#bkpaint1_linear_1_89)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M40.7997 156H139.543V169.714H40.7997V156Z" fill="url(#bkpaint2_linear_1_89)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="bkpaint0_linear_1_89" x1="77.157" y1="36.2916" x2="110.175" y2="63.5526" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bkpaint1_linear_1_89" x1="30.8736" y1="52.5096" x2="142.767" y2="152.241" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bkpaint2_linear_1_89" x1="33.5547" y1="159.765" x2="144.554" y2="160.213" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="bn" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M77.4026 18.207C77.0552 42.1425 78.2775 33.1038 63.1737 22.0536C65.5047 37.6677 63.9216 38.1816 59.8869 44.8641C57.6783 48.5208 55.7315 60.0345 54.35 62.5725C45.9764 77.9508 26.7471 98.0271 26.7795 104.572C26.8218 112.856 36.675 120.272 45.6885 111.511C37.2555 123.856 62.7147 111.456 73.3842 103.842C87.5061 112.536 107.237 103.023 107.603 89.0532C114.03 120.65 54.017 126.138 50.8112 167.122C95.5385 177.332 120.451 144.067 147.712 169.79C161.649 129.384 162.936 61.839 98.1476 36.5148C89.342 33.0732 85.6421 24.219 77.4026 18.2061V18.207ZM77.1327 62.7795C75.6675 64.8567 72.5876 68.2479 69.8867 67.7511C67.3883 67.2921 66.384 66.4461 66.2688 63.4869C66.1716 60.9966 74.997 61.0767 77.1318 62.7795H77.1327Z" fill="url(#bnpaint0_linear_1_101)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="bnpaint0_linear_1_101" x1="34.0821" y1="52.695" x2="152.879" y2="169.952" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="bp" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path opacity="0.99" fill-rule="evenodd" clip-rule="evenodd" d="M128.228 124.799C128.228 145.818 111.496 162.856 90.8562 162.856C70.2167 162.856 53.485 145.818 53.485 124.799C53.485 103.781 70.2167 86.7424 90.8562 86.7424C111.496 86.7424 128.228 103.781 128.228 124.799Z" fill="url(#bppaint0_linear_1_107)" stroke="#808080" stroke-width="3.29141" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="bppaint0_linear_1_107" x1="48.7536" y1="111.771" x2="135.359" y2="148.113" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="bq" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M136.183 30.8376C93.1104 159.898 86.4549 160.137 48.7539 31.4487C48.5226 83.8926 55.4967 120.783 65.6037 142.149H114.576C125.653 120.683 134.232 83.565 136.183 30.8376V30.8376Z" fill="url(#bqpaint0_linear_1_113)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M92.2932 22.032C76.662 106.733 84.3309 197.517 18.126 60.3603C20.3922 102.294 30.2265 132.006 47.6658 149.351H130.376C148.145 132.222 158.915 102.971 163.039 61.4655C99.8154 198.652 105.304 106.811 92.2932 22.0329V22.032Z" fill="url(#bqpaint1_linear_1_113)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M42.5825 155.794H134.469V169.166H42.5825V155.794Z" fill="url(#bqpaint2_linear_1_113)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="bqpaint0_linear_1_113" x1="58.7601" y1="59.0643" x2="96.0003" y2="120.779" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bqpaint1_linear_1_113" x1="34.3089" y1="49.3488" x2="147.885" y2="153.578" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="bqpaint2_linear_1_113" x1="40.9373" y1="162.48" x2="136.114" y2="162.48" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="br" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M48.6855 63.4968H133.714V162.24H48.6855V63.4968Z" fill="url(#brpaint0_linear_1_125)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.7139 36.0684H57.9429V69.327H25.7139V36.0684Z" fill="url(#brpaint1_linear_1_125)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M74.7432 43.2684H104.571V57.3264H74.7432V43.2684Z" fill="url(#brpaint2_linear_1_125)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M128.228 28.1826H154.286V78.2406H128.228V28.1826Z" fill="url(#brpaint3_linear_1_125)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M33.5997 154.08H74.9142H116.229V167.794H33.5997V154.08Z" fill="url(#brpaint4_linear_1_125)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M126.857 141.394H146.743V168.137H126.857V141.394Z" fill="url(#brpaint5_linear_1_125)" stroke="#808080" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="brpaint0_linear_1_125" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="brpaint1_linear_1_125" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="brpaint2_linear_1_125" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="brpaint3_linear_1_125" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="brpaint4_linear_1_125" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+      <linearGradient id="brpaint5_linear_1_125" x1="18.2505" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop />
+        <stop offset="1" stop-color="#505070" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="wb" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M87.8904 142.266C86.7897 144.468 30.6477 171.988 30.6477 171.988L77.0382 166.117L87.8904 142.266Z" fill="url(#wbpaint0_linear_1_81)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M91.0125 142.266C92.1132 144.468 148.255 171.988 148.255 171.988L99.1215 166.117L91.0125 142.266Z" fill="url(#wbpaint1_linear_1_81)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M67.5297 128.001C66.2922 130.476 52.2558 145.386 52.2558 145.386L122.26 150.204L104.417 121.266L67.5297 128.001Z" fill="url(#wbpaint2_linear_1_81)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M88.848 32.0697C87.6096 34.5447 41.4504 135.985 41.4504 135.985L136.967 127.572L88.848 32.0697ZM98.1378 64.2402L105.432 80.2242L67.8033 117.493C67.8033 117.493 96.9003 66.7161 98.1378 64.2402Z" fill="url(#wbpaint3_linear_1_81)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M89.262 15.075C88.0236 17.5518 75.168 38.5389 75.168 38.5389L104.524 43.0659L89.262 15.075Z" fill="url(#wbpaint4_linear_1_81)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="wbpaint0_linear_1_81" x1="29.0025" y1="92.3319" x2="150.175" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wbpaint1_linear_1_81" x1="25.299" y1="92.3319" x2="146.472" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wbpaint2_linear_1_81" x1="26.9451" y1="92.3319" x2="148.118" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wbpaint3_linear_1_81" x1="26.9451" y1="92.3319" x2="148.117" y2="129.018" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wbpaint4_linear_1_81" x1="66.3741" y1="35.4177" x2="103.084" y2="46.3887" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="wk" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M82.9044 22.6305V34.8957H66.735V48.8907H82.9035V74.0844H95.8113V48.8907H115.232V34.8957H95.8113V22.6305H82.9044Z" fill="url(#wkpaint0_linear_1_95)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M105.092 94.869C146.181 72.8928 133.014 114.761 112.622 127.704C99.4842 136.042 92.6154 104.578 99.585 80.9487L81.9774 81.1611C88.47 102.072 84.51 134.205 70.2261 127.704C44.7813 116.123 35.3223 73.5147 75.9465 94.8897C52.4709 46.9008 15.9066 65.2509 19.3365 89.64C23.0643 116.134 53.3025 139.974 52.6887 150.596H128.565C127.35 138.29 161.461 112.982 162.553 88.92C163.601 65.3769 122.969 47.1429 105.092 94.869V94.869Z" fill="url(#wkpaint1_linear_1_95)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M40.7997 156H139.543V169.714H40.7997V156Z" fill="url(#wkpaint2_linear_1_95)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="wkpaint0_linear_1_95" x1="77.157" y1="36.2916" x2="110.175" y2="63.5526" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wkpaint1_linear_1_95" x1="30.8736" y1="52.5096" x2="142.767" y2="152.241" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wkpaint2_linear_1_95" x1="33.5547" y1="159.765" x2="144.554" y2="160.213" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="wn" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M77.4026 18.207C77.0552 42.1425 78.2774 33.1038 63.1736 22.0536C65.5046 37.6677 63.9216 38.1816 59.8869 44.8641C57.6783 48.5208 55.7315 60.0345 54.35 62.5725C45.9764 77.9508 26.7471 98.0271 26.7795 104.572C26.8218 112.856 36.675 120.272 45.6885 111.511C37.2555 123.856 62.7147 111.456 73.3842 103.842C87.5061 112.536 107.237 103.023 107.603 89.0532C114.03 120.65 54.017 126.138 50.8112 167.122C95.5385 177.332 120.451 144.067 147.712 169.79C161.649 129.383 162.935 61.839 98.1476 36.5148C89.342 33.0732 85.6421 24.2199 77.4026 18.207ZM77.1327 62.7795C75.6675 64.8567 72.5876 68.2479 69.8867 67.7511C67.3883 67.2921 66.384 66.4461 66.2688 63.4869C66.1716 60.9966 74.9979 61.0767 77.1327 62.7795Z" fill="url(#wnpaint0_linear_1_104)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="wnpaint0_linear_1_104" x1="34.0821" y1="52.695" x2="152.879" y2="169.952" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="wp" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path opacity="0.99" fill-rule="evenodd" clip-rule="evenodd" d="M128.228 124.799C128.228 145.818 111.496 162.856 90.8562 162.856C70.2167 162.856 53.485 145.818 53.485 124.799C53.485 103.781 70.2167 86.7424 90.8562 86.7424C111.496 86.7424 128.228 103.781 128.228 124.799Z" fill="url(#wppaint0_linear_1_110)" stroke="black" stroke-width="3.29141" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="wppaint0_linear_1_110" x1="48.7536" y1="111.771" x2="135.359" y2="148.113" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="wq" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M136.183 30.8376C93.1104 159.898 86.4549 160.137 48.7539 31.4487C48.5226 83.8926 55.4967 120.783 65.6037 142.149H114.576C125.653 120.683 134.232 83.565 136.183 30.8376V30.8376Z" fill="url(#wqpaint0_linear_1_119)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M92.2932 22.0329C76.662 106.733 84.3309 197.517 18.126 60.3603C20.3922 102.294 30.2265 132.006 47.6658 149.351H130.376C148.145 132.222 158.915 102.971 163.039 61.4655C99.8154 198.652 105.304 106.811 92.2932 22.0329V22.0329Z" fill="url(#wqpaint1_linear_1_119)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M42.5825 155.795H134.469V169.166H42.5825V155.795Z" fill="url(#wqpaint2_linear_1_119)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="wqpaint0_linear_1_119" x1="58.7601" y1="59.0643" x2="96.0003" y2="120.779" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wqpaint1_linear_1_119" x1="34.3089" y1="49.3488" x2="147.885" y2="153.578" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wqpaint2_linear_1_119" x1="40.9373" y1="162.48" x2="136.114" y2="162.48" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+    </defs>
+  </g>
+  <g id="wr" fill="none" transform="scale(0.2222222222222222 0.2222222222222222)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M48.6855 63.4968H133.714V162.24H48.6855V63.4968Z" fill="url(#wrpaint0_linear_1_134)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M25.7139 36.0684H57.9429V69.3261H25.7139V36.0684Z" fill="url(#wrpaint1_linear_1_134)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M74.7432 43.2684H104.571V57.3264H74.7432V43.2684Z" fill="url(#wrpaint2_linear_1_134)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M128.228 28.1826H154.286V78.2406H128.228V28.1826Z" fill="url(#wrpaint3_linear_1_134)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M33.5997 154.08H116.229V167.794H33.5997V154.08Z" fill="url(#wrpaint4_linear_1_134)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M126.857 141.395H146.743V168.137H126.857V141.395Z" fill="url(#wrpaint5_linear_1_134)" stroke="black" stroke-width="3.2913" stroke-linecap="round" stroke-linejoin="round" />
+    <defs>
+      <linearGradient id="wrpaint0_linear_1_134" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wrpaint1_linear_1_134" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wrpaint2_linear_1_134" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wrpaint3_linear_1_134" x1="18.2502" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wrpaint4_linear_1_134" x1="18.2502" y1="58.8854" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+      <linearGradient id="wrpaint5_linear_1_134" x1="18.2505" y1="58.8852" x2="158.841" y2="154.405" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#EDE3DE" />
+        <stop offset="1" stop-color="#D0B090" />
+      </linearGradient>
+    </defs>
+  </g>
+</svg>

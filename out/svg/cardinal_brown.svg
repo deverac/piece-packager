@@ -1,0 +1,272 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewbox="0.0 0.0 50.0 50.0">
+  <g id="bb" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="bblinearGradient2720-5" x1="13197" x2="13341" y1="-9591.1" y2="-9591.1" gradientTransform="matrix(.26458 0 0 .26458 -3485.7 2562.6)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#663434" offset="0" />
+        <stop stop-color="#2e1d1d" offset="1" />
+      </linearGradient>
+      <filter id="bbfilter2809-5-8-5-1-4-7-5" color-interpolation-filters="sRGB">
+        <feGaussianBlur result="blur" stdDeviation="0.01 0.01" />
+      </filter>
+      <filter id="bbfilter845" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <g clip-rule="evenodd" shape-rendering="geometricPrecision">
+      <g fill-rule="evenodd">
+        <path d="m25 6.55c-0.8776 0-1.6536 0.2905-2.2614 0.9028-0.641 0.6123-0.9456 1.3212-0.9456 2.159 0 1.2248 0.5739 2.127 1.7555 2.7394-2.9691 3.2861-8.7077 5.8222-8.8109 10.828 0.01 2.6744 1.4661 4.7641 3.3084 6.7996l-1.1142 5.8332c1.6971 0.5416 3.0898 0.9417 4.8276 1.1281-3.8819 4.5762-10.787-1.7402-15.209 2.9326l2.3302 3.5771c5.5928-3.962 13.374 3.6729 16.12-3.9621 2.7459 7.6351 10.527 0 16.12 3.9621l2.3297-3.5771c-4.422-4.6728-11.327 1.6436-15.209-2.9326 1.7377-0.1864 3.1302-0.5865 4.8273-1.1281l-1.1142-5.8332c1.8423-2.0355 3.3012-4.1252 3.3084-6.7996-0.1032-5.0062-5.8418-7.5422-8.8109-10.828 1.1816-0.6124 1.7555-1.5146 1.7555-2.7394 0-0.8378-0.304-1.5467-0.9454-2.159-0.6077-0.6123-1.3837-0.9028-2.2614-0.9028z" fill="url(#bblinearGradient2720-5)" filter="url(#bbfilter845)" image-rendering="optimizeQuality" stroke="#F2E9D0" stroke-linejoin="round" stroke-width="1.1" />
+        <ellipse class="bbst15" transform="matrix(.33232 0 0 .24998 -879.01 102.47)" cx="2720.3" cy="-271.4" rx="16.3" ry="2.5" fill="#F2E9D0" filter="url(#bbfilter2809-5-8-5-1-4-7-5)" image-rendering="optimizeQuality" stroke-width=".91798" />
+        <ellipse class="bbst15" cx="25" cy="9.6117" rx="1.1401" ry="1.1474" fill="#F2E9D0" image-rendering="optimizeQuality" stroke-width=".26458" />
+      </g>
+      <path d="m21.333 23.266h7.333m-3.6663-3.3339v6.7524" fill="none" image-rendering="optimizeQuality" stroke="#F2E9D0" stroke-width="1.4" />
+    </g>
+  </g>
+  <g id="bk" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="bklinearGradient865-8" x1="2986.4" x2="3128.4" y1="1623.8" y2="1623.8" gradientTransform="matrix(.27141 0 0 .27218 -804.81 -417.45)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#663434" offset="0" />
+        <stop stop-color="#2e1d1d" offset="1" />
+      </linearGradient>
+      <filter id="bkfilter2813-0-1-2-9-2-3-7-2-7-5-0-0" color-interpolation-filters="sRGB">
+        <feGaussianBlur result="blur" stdDeviation="0.01 0.01" />
+      </filter>
+      <filter id="bkfilter935" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.6" />
+        <feOffset dx="1.6" dy="1.4" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <path d="m23.283 5.5508v3.2374h-3.364v2.9195h3.364v1.758c-3.3676 2.1271-2.9956 5.7407-2.9956 5.7407-11.009-8.516-20.672 7.563-7.9441 13.053v8.7341c0 0.94913 5.6669 2.4554 12.657 2.4554 6.9899 0 12.657-1.5063 12.657-2.4554v-8.7341c12.728-5.4903 3.0652-21.569-7.9436-13.053 0 0 0.37202-3.6136-2.9956-5.7407v-1.758h3.364v-2.9195h-3.364v-3.2374h-1.7175z" clip-rule="evenodd" fill="url(#bklinearGradient865-8)" fill-rule="evenodd" filter="url(#bkfilter935)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#F2E9D0" stroke-width="1.1" />
+    <ellipse class="bkst15" transform="matrix(.28533 0 0 .3223 4.72 -1.9797)" cx="71.077" cy="131.54" rx="32.126" ry="2.844" clip-rule="evenodd" fill="#F2E9D0" fill-rule="evenodd" filter="url(#bkfilter2813-0-1-2-9-2-3-7-2-7-5-0-0)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.1079" />
+    <path d="m27.032 30.267c1.4893-12.102 11.943-12.441 13.364-7.3792 1.4208 5.0616-4.7357 7.3792-4.7357 7.3792s-4.8752-0.63833-10.66-0.63833-10.66 0.63833-10.66 0.63833-6.1565-2.3176-4.7357-7.3792 11.874-4.7226 13.364 7.3792" fill="none" stroke="#F2E9D0" stroke-width="1.4" />
+  </g>
+  <g id="bn" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="bnlinearGradient5283-7-6" x1="-455.39" x2="-419.41" y1="-338.23" y2="-338.23" gradientTransform="matrix(1.0008 0 0 1.0001 462.75 363.26)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#663434" offset="0" />
+        <stop stop-color="#2e1d1d" offset="1" />
+      </linearGradient>
+      <filter id="bnfilter930" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.6" />
+        <feOffset dx="1.6" dy="1.4" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <metadata />
+    <path d="m18.474 30.285c2.1026-1.198 3.3251-1.183 5.467-2.1991 0.2244 7.4251-9.9086 7.4565-8.0926 15.361l26.426 3e-3s3.0977-32.274-16.795-33.626c0 0-1.9157-3.605-3.9286-3.2497 0 0-1.0654 0.83744-0.45734 3.2065l-2.3061 0.74593s-3.2163-2.0717-4.1271-1.2701c-0.8586 0.36934 1.099 3.2798 1.8779 3.9863-0.78924 1.1423-8.5492 12.109-8.9675 15.682-0.26658 2.2772 2.023 3.5185 3.7189 4.1193 0.96498 0.34188 1.7378 0.4764 1.7378 0.4764 1.4255-0.25596 3.3449-2.0374 5.4475-3.2354z" clip-rule="evenodd" fill="url(#bnlinearGradient5283-7-6)" fill-rule="evenodd" filter="url(#bnfilter930)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#F2E9D0" stroke-width="1.1" />
+    <path d="m23.941 28.086s4.4334-1.8669 4.2241-5.8348" fill="none" stroke="#F2E9D0" stroke-linecap="round" stroke-width="1.1" />
+    <g>
+      <path d="m19.104 18.473s0.59407-1.8464 3.4529-2.2941" stroke="#F2E9D0" stroke-linecap="round" stroke-width="1.4" />
+      <ellipse cx="21.027" cy="18.001" rx="1.2415" ry="1.1681" fill="#F2E9D0" style="paint-order:markers fill stroke" />
+      <path d="m9.1691 29.241s0.25452-0.68232 0.92457-1.1184" fill="#F2E9D0" stroke="#F2E9D0" stroke-linecap="round" stroke-width="1.4" />
+      <path d="m11.64 32.283c0.69051-0.8867 1.5832-1.3188 2.3844-1.9567" fill="#F2E9D0" stroke="#F2E9D0" stroke-linecap="round" stroke-width="1.2" />
+    </g>
+    <path d="m30.806 14.872c4.3051 2.6334 8.4595 9.2509 8.1094 26.08" fill="none" stroke="#F2E9D0" stroke-linejoin="round" stroke-width="1.4" />
+  </g>
+  <g id="bp" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="bplinearGradient3001-0" x1="4127.2" x2="4235.7" y1="-2558.3" y2="-2558.3" gradientTransform="matrix(.26749 0 0 .26799 -1093.5 713.11)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#663434" offset="0" />
+        <stop stop-color="#2e1d1d" offset="1" />
+      </linearGradient>
+      <filter id="bpfilter835" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <metadata />
+    <path class="bpst31" d="m25.019 43.45h-13.439c-2.4659-5.7238 4.0721-11.03 8.6676-12.832-5.4922-3.0738-2.5148-10.911 2.1927-11.547-1.1209-0.74196-1.6813-2.3272-1.6813-3.5992 0-1.06 0.44836-2.014 1.2329-2.7559 0.78463-0.74196 1.7934-1.1659 3.0263-1.1659 1.1208 0 2.1296 0.42396 3.0263 1.1659 0.7846 0.74196 1.2329 1.6959 1.2329 2.7559 0 1.2719-0.56045 2.8573-1.6814 3.5992 5.1559 2.0139 7.0125 9.427 2.1928 11.547 6.2767 2.2259 10.685 7.8501 8.6676 12.832z" clip-rule="evenodd" fill="url(#bplinearGradient3001-0)" fill-rule="evenodd" filter="url(#bpfilter835)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#F2E9D0" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.1" />
+  </g>
+  <g id="bq" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="bqlinearGradient8684-4" x1="-71.637" x2="-30.678" y1="-83.325" y2="-83.325" gradientTransform="matrix(.97644 0 0 .99286 74.952 107.73)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#663434" offset="0" />
+        <stop stop-color="#2e1d1d" offset="1" />
+      </linearGradient>
+      <filter id="bqfilter2813-0-1-5-1-2-1-1-4-1-0-3-6" color-interpolation-filters="sRGB">
+        <feGaussianBlur result="blur" stdDeviation="0.01 0.01" />
+      </filter>
+      <filter id="bqfilter839" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <path d="m24.994 6.5488v5.086e-4c-1.5677 0.00587-2.8354 1.181-2.8358 2.629 0.0016 1.1933 0.87292 2.236 2.1223 2.5397-0.68896 4.4495-1.967 9.7264-2.6349 14.112l-4.0691-12.927c0.96719-0.44424 1.5789-1.3558 1.5794-2.3535-8.1e-5 -1.4522-1.2746-2.6294-2.8469-2.6295-1.5723 5.87e-5 -2.8468 1.1773-2.8469 2.6295 0.0019 1.2053 0.89063 2.2551 2.1566 2.5474l-0.43889 13.258-5.483-10.611c0.95117-0.44979 1.5496-1.3537 1.5496-2.3407-8e-5 -1.4522-1.2746-2.6294-2.8469-2.6295-1.5723 5.9e-5 -2.8468 1.1773-2.8469 2.6295 9.054e-4 1.3346 1.0841 2.457 2.5194 2.6105l2.7594 16.507 4.0507 5.2585-1.0046 3.6341c-0.04199 0.65539 4.8482 2.0272 11.122 2.0395 6.2739-0.01228 11.164-1.3841 11.122-2.0395l-1.0046-3.6341 4.0507-5.2585 2.7594-16.507c1.4353-0.15358 2.5185-1.2759 2.5194-2.6105-8e-5 -1.4522-1.2746-2.6294-2.8469-2.6295-1.5722 7.2e-5 -2.8468 1.1773-2.8469 2.6295 2.2e-5 0.98699 0.59841 1.8909 1.5496 2.3407l-5.483 10.611-0.43889-13.258c1.266-0.29229 2.1547-1.3421 2.1566-2.5474-8.1e-5 -1.4522-1.2746-2.6294-2.8469-2.6295-1.5723 5.87e-5 -2.8468 1.1773-2.8469 2.6295 4.58e-4 0.99771 0.61217 1.9092 1.5794 2.3535l-4.0691 12.927c-0.66791-4.3856-1.946-9.6624-2.6349-14.112 1.2494-0.30375 2.1207-1.3464 2.1223-2.5397-3.68e-4 -1.448-1.2681-2.6233-2.8358-2.629v-5.086e-4l-0.0055 5.086e-4 -0.0055-5.086e-4z" fill="url(#bqlinearGradient8684-4)" filter="url(#bqfilter839)" stroke="#F2E9D0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1" style="paint-order:normal" />
+    <ellipse class="bqst15" transform="matrix(.25939 0 0 .29298 -1196.4 778.12)" cx="4708.7" cy="-2517.6" rx="32.126" ry="2.844" clip-rule="evenodd" fill="#F2E9D0" fill-rule="evenodd" filter="url(#bqfilter2813-0-1-5-1-2-1-1-4-1-0-3-6)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.1978" />
+    <path d="m15.172 34.076s2.6991-1.2487 9.8022-1.2558c7.1031-0.0095 9.8008 1.2558 9.8008 1.2558" fill="none" stroke="#F2E9D0" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers" />
+  </g>
+  <g id="br" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="brlinearGradient2999-1" x1="4501.5" x2="4594.6" y1="-572.4" y2="-572.4" gradientTransform="matrix(.34208 0 0 .2837 -1530.8 187.39)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#663434" offset="0" />
+        <stop stop-color="#2e1d1d" offset="1" />
+      </linearGradient>
+      <filter id="brfilter842" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <metadata />
+    <g transform="translate(-3007.9 2136.6)">
+      <g transform="matrix(1.0055 0 0 .9198 3007.7 -2133.1)" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.0398">
+        <g stroke-width="1.0398">
+          <path class="brst14" d="m21.932 6.5464v2.9336h-4.091v-2.5883h-5.7955v7.9753l4.5326 3.1418v12.567l-3.8508 2.4858v5.2133h-3.0682v5.1788h30.682v-5.1788h-3.0682v-5.2133l-3.8508-2.4858v-12.533l4.5326-3.2108v-7.9408h-5.7955v2.5883h-4.4319v-2.9336h-2.8978z" fill="url(#brlinearGradient2999-1)" filter="url(#brfilter842)" stroke="#F2E9D0" stroke-width="1.1438" />
+        </g>
+      </g>
+      <path d="m3026.7-2105.2h11.998" fill="none" stroke="#F2E9D0" stroke-width="1.4" />
+      <path d="m3026.7-2116.6h11.998" fill="none" stroke="#F2E9D0" stroke-width="1.4" />
+    </g>
+  </g>
+  <g id="wb" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="wblinearGradient2720" x1="13197" x2="13341" y1="-9591" y2="-9591" gradientTransform="matrix(.26458 0 0 .26458 -3485.7 2562.6)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2E9D0" offset="0" />
+        <stop stop-color="#E79E85" offset="1" />
+      </linearGradient>
+      <filter id="wbfilter2809-5-8-5-1-4-7-4" color-interpolation-filters="sRGB">
+        <feGaussianBlur result="blur" stdDeviation="0.01 0.01" />
+      </filter>
+      <filter id="wbfilter845" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <g clip-rule="evenodd" shape-rendering="geometricPrecision">
+      <g fill-rule="evenodd">
+        <path d="m25 6.55c-0.87762 0-1.6536 0.29049-2.2614 0.90278-0.64109 0.6123-0.94562 1.3212-0.94562 2.1591 0 1.2247 0.57388 2.127 1.7555 2.7394-2.9692 3.2861-8.7077 5.8222-8.8109 10.828 0.0079 2.6744 1.4661 4.7641 3.3084 6.7996l-1.1142 5.8332c1.697 0.5416 3.0898 0.94168 4.8276 1.1281-3.882 4.5762-10.787-1.7402-15.209 2.9326l2.3302 3.5771c5.5928-3.962 13.374 3.6729 16.12-3.9621 2.7458 7.6351 10.527 0.0037 16.12 3.9621l2.3297-3.5771c-4.422-4.6729-11.327 1.6436-15.209-2.9326 1.7378-0.1864 3.1303-0.58653 4.8273-1.1281l-1.1142-5.8332c1.8423-2.0355 3.3012-4.1252 3.3084-6.7996-0.10319-5.0062-5.8417-7.5422-8.8109-10.828 1.1816-0.6124 1.7555-1.5147 1.7555-2.7394 0-0.8378-0.30401-1.5468-0.94536-2.1591-0.60775-0.6123-1.3838-0.90278-2.2614-0.90278z" fill="url(#wblinearGradient2720)" filter="url(#wbfilter845)" image-rendering="optimizeQuality" stroke="#000" stroke-linejoin="round" stroke-width="1.1" />
+        <ellipse class="wbst15" transform="matrix(.33232 0 0 .24998 -879.01 102.47)" cx="2720.3" cy="-271.4" rx="16.3" ry="2.5" filter="url(#wbfilter2809-5-8-5-1-4-7-4)" image-rendering="optimizeQuality" stroke-width=".91797" />
+        <ellipse class="wbst15" cx="25" cy="9.6115" rx="1.1401" ry="1.1474" image-rendering="optimizeQuality" stroke-width=".26458" />
+      </g>
+      <path d="m21.333 23.266h7.333m-3.6663-3.3339v6.7524" fill="none" image-rendering="optimizeQuality" stroke="#000" stroke-width="1.4" />
+    </g>
+  </g>
+  <g id="wk" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="wklinearGradient865" x1="2986.4" x2="3128.4" y1="1623.8" y2="1623.8" gradientTransform="matrix(.27141 0 0 .27218 -804.81 -417.45)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2E9D0" offset="0" />
+        <stop stop-color="#E79E85" offset="1" />
+      </linearGradient>
+      <filter id="wkfilter2813-0-1-2-9-2-3-7-2-7-5-0" color-interpolation-filters="sRGB">
+        <feGaussianBlur result="blur" stdDeviation="0.01 0.01" />
+      </filter>
+      <filter id="wkfilter905" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.6" />
+        <feOffset dx="1.6" dy="1.4" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <path d="m23.283 5.5508v3.2374h-3.364v2.9195h3.364v1.758c-3.3676 2.1271-2.9956 5.7407-2.9956 5.7407-11.009-8.516-20.672 7.563-7.9441 13.053v8.7341c0 0.94913 5.6669 2.4554 12.657 2.4554 6.9899 0 12.657-1.5063 12.657-2.4554v-8.7341c12.728-5.4903 3.0652-21.569-7.9436-13.053 0 0 0.37202-3.6136-2.9956-5.7407v-1.758h3.364v-2.9195h-3.364v-3.2374h-1.7175z" clip-rule="evenodd" fill="url(#wklinearGradient865)" fill-rule="evenodd" filter="url(#wkfilter905)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#000" stroke-width="1.1" />
+    <ellipse class="wkst15" transform="matrix(.28533 0 0 .3223 4.72 -1.9797)" cx="71.077" cy="131.54" rx="32.126" ry="2.844" clip-rule="evenodd" fill-rule="evenodd" filter="url(#wkfilter2813-0-1-2-9-2-3-7-2-7-5-0)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.1079" />
+    <path d="m27.032 30.267c1.4893-12.102 11.943-12.441 13.364-7.3792 1.4208 5.0616-4.7357 7.3792-4.7357 7.3792s-4.8752-0.63833-10.66-0.63833-10.66 0.63833-10.66 0.63833-6.1565-2.3176-4.7357-7.3792 11.874-4.7226 13.364 7.3792" fill="none" stroke="#000" stroke-width="1.4" />
+  </g>
+  <g id="wn" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="wnlinearGradient5283" x1="-455.39" x2="-419.41" y1="-338.23" y2="-338.23" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2E9D0" offset="0" />
+        <stop stop-color="#E79E85" offset="1" />
+      </linearGradient>
+      <filter id="wnfilter883" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.6" />
+        <feOffset dx="1.6" dy="1.4" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <metadata />
+    <path transform="matrix(1.0008 0 0 1.0001 462.75 363.26)" d="m-443.92-332.95c2.1009-1.1978 3.3224-1.1829 5.4627-2.1989 0.22422 7.4244-9.9007 7.4558-8.0862 15.359l26.405 3e-3s3.0953-32.271-16.782-33.622c0 0-1.9141-3.6047-3.9255-3.2494 0 0-1.0646 0.83736-0.45698 3.2062l-2.3043 0.74586s-3.2138-2.0715-4.1238-1.27c-0.85792 0.3693 1.0982 3.2795 1.8764 3.9859-0.78861 1.1422-8.5424 12.108-8.9603 15.68-0.26637 2.277 2.0214 3.5181 3.7159 4.1189 0.96421 0.34185 1.7364 0.47635 1.7364 0.47635 1.4243-0.25593 3.3422-2.0372 5.4431-3.235z" clip-rule="evenodd" fill="url(#wnlinearGradient5283)" fill-rule="evenodd" filter="url(#wnfilter883)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke="#000" stroke-width="1.0995" />
+    <path d="m23.941 28.086s4.4334-1.8669 4.2241-5.8348" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.1" />
+    <g>
+      <path d="m19.104 18.473s0.59407-1.8464 3.4529-2.2941" stroke="#000" stroke-linecap="round" stroke-width="1.4" />
+      <ellipse cx="21.027" cy="18.001" rx="1.2415" ry="1.1681" style="paint-order:markers fill stroke" />
+      <path d="m9.1691 29.241s0.25452-0.68232 0.92457-1.1184" fill="#F2E9D0" stroke="#000" stroke-linecap="round" stroke-width="1.4" />
+      <path d="m11.64 32.283c0.69051-0.8867 1.5832-1.3188 2.3844-1.9567" fill="#F2E9D0" stroke="#000" stroke-linecap="round" stroke-width="1.2" />
+    </g>
+    <path d="m30.806 14.872c4.3051 2.6334 8.4595 9.2509 8.1094 26.08" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="1.4" />
+  </g>
+  <g id="wp" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="wplinearGradient3009-3" x1="4127.3" x2="4235.7" y1="-2558.4" y2="-2558.4" gradientTransform="matrix(.27677 0 0 .27555 -1132.3 731.96)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2E9D0" offset="0" />
+        <stop stop-color="#E79E85" offset="1" />
+      </linearGradient>
+      <filter id="wpfilter834" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <metadata />
+    <g transform="matrix(.96658 0 0 .97245 .83342 1.2431)" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.0314">
+      <path class="wpst31" d="m25.024 43.401h-13.905c-2.5514-5.8853 4.2134-11.341 8.9683-13.194-5.6827-3.1606-2.6021-11.219 2.2688-11.873-1.1598-0.7629-1.7396-2.3929-1.7396-3.7008 0-1.0899 0.46392-2.0708 1.2757-2.8337 0.81185-0.7629 1.8556-1.1988 3.1313-1.1988 1.1597 0 2.2035 0.43593 3.1313 1.1988 0.81182 0.7629 1.2757 1.7438 1.2757 2.8337 0 1.3078-0.57989 2.9379-1.7397 3.7008 5.3348 2.0707 7.2558 9.6931 2.2689 11.873 6.4945 2.2887 11.056 8.0716 8.9683 13.194z" fill="url(#wplinearGradient3009-3)" filter="url(#wpfilter834)" stroke="#000" stroke-linecap="square" stroke-linejoin="round" stroke-width="1.1346" />
+    </g>
+  </g>
+  <g id="wq" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="wqlinearGradient8602-3" x1="-71.638" x2="-30.679" y1="-83.324" y2="-83.324" gradientTransform="matrix(.97643 0 0 .99287 74.952 107.73)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2E9D0" offset="0" />
+        <stop stop-color="#E79E85" offset="1" />
+      </linearGradient>
+      <filter id="wqfilter2813-0-1-5-1-2-1-1-4-1-0" color-interpolation-filters="sRGB">
+        <feGaussianBlur result="blur" stdDeviation="0.01 0.01" />
+      </filter>
+      <filter id="wqfilter839" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <path d="m24.994 6.5487v5.087e-4c-1.5677 0.00587-2.8354 1.181-2.8358 2.629 0.0016 1.1933 0.87292 2.236 2.1223 2.5397-0.68896 4.4495-1.967 9.7264-2.6349 14.112l-4.0691-12.927c0.96719-0.44424 1.5789-1.3558 1.5794-2.3535-8.1e-5 -1.4522-1.2746-2.6295-2.8469-2.6295-1.5723 5.87e-5 -2.8468 1.1773-2.8469 2.6295 0.0019 1.2053 0.89063 2.2551 2.1566 2.5474l-0.43889 13.258-5.483-10.611c0.95116-0.44979 1.5495-1.3537 1.5496-2.3407-8e-5 -1.4522-1.2746-2.6294-2.8469-2.6295-1.5723 6e-5 -2.8468 1.1773-2.8469 2.6295 9.055e-4 1.3346 1.0841 2.457 2.5194 2.6105l2.7593 16.507 4.0507 5.2585-1.0046 3.6341c-0.04199 0.65539 4.8482 2.0272 11.122 2.0395 6.2739-0.01228 11.164-1.3841 11.122-2.0395l-1.0046-3.6341 4.0507-5.2585 2.7594-16.507c1.4353-0.15358 2.5185-1.2759 2.5194-2.6105-8.1e-5 -1.4522-1.2746-2.6294-2.8469-2.6295-1.5722 7.2e-5 -2.8468 1.1773-2.8469 2.6295 2.3e-5 0.987 0.59841 1.8909 1.5496 2.3407l-5.483 10.611-0.43889-13.258c1.266-0.29229 2.1547-1.3421 2.1566-2.5474-8.1e-5 -1.4522-1.2746-2.6295-2.8469-2.6295-1.5723 5.87e-5 -2.8468 1.1773-2.8469 2.6295 4.58e-4 0.99771 0.61217 1.9092 1.5794 2.3535l-4.0691 12.927c-0.66791-4.3856-1.946-9.6625-2.6349-14.112 1.2494-0.30375 2.1207-1.3464 2.1223-2.5397-3.68e-4 -1.448-1.2681-2.6233-2.8358-2.629v-5.087e-4l-0.0055 5.087e-4 -0.0055-5.087e-4z" fill="url(#wqlinearGradient8602-3)" filter="url(#wqfilter839)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.1" style="paint-order:normal" />
+    <ellipse class="wqst15" transform="matrix(.25939 0 0 .29298 -1196.4 778.12)" cx="4708.7" cy="-2517.6" rx="32.126" ry="2.844" clip-rule="evenodd" fill-rule="evenodd" filter="url(#wqfilter2813-0-1-5-1-2-1-1-4-1-0)" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.1978" />
+    <path d="m15.172 34.076s2.6991-1.2487 9.8022-1.2558c7.1031-0.0095 9.8007 1.2558 9.8007 1.2558" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2" style="paint-order:stroke fill markers" />
+  </g>
+  <g id="wr" transform="scale(0.8 0.8)">
+    <defs>
+      <linearGradient id="wrlinearGradient2999-0" x1="4501.5" x2="4594.6" y1="-572.4" y2="-572.4" gradientTransform="matrix(.34208 0 0 .2837 -1530.8 187.39)" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#F2E9D0" offset="0" />
+        <stop stop-color="#E79E85" offset="1" />
+      </linearGradient>
+      <filter id="wrfilter840" color-interpolation-filters="sRGB">
+        <feFlood flood-color="rgb(0,0,0)" flood-opacity=".49804" result="flood" />
+        <feComposite in="flood" in2="SourceGraphic" operator="in" result="composite1" />
+        <feGaussianBlur in="composite1" result="blur" stdDeviation="0.3" />
+        <feOffset dx="1" dy="1" result="offset" />
+        <feComposite in="SourceGraphic" in2="offset" result="composite2" />
+      </filter>
+    </defs>
+    <metadata />
+    <g transform="matrix(1.0055 0 0 .9198 -.13694 3.5051)" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" stroke-width="1.0398">
+      <g stroke-width="1.0398">
+        <path class="wrst14" d="m21.932 6.5464v2.9336h-4.091v-2.5883h-5.7955v7.9753l4.5326 3.1418v12.567l-3.8508 2.4858v5.2133h-3.0682v5.1788h30.682v-5.1788h-3.0682v-5.2133l-3.8508-2.4858v-12.533l4.5326-3.2108v-7.9408h-5.7955v2.5883h-4.4319v-2.9336h-2.8978z" fill="url(#wrlinearGradient2999-0)" filter="url(#wrfilter840)" stroke="#010101" stroke-width="1.1438" />
+      </g>
+    </g>
+    <path d="m18.829 31.438h11.998" fill="none" stroke="#000" stroke-width="1.4" />
+    <path d="m18.829 20.006h11.998" fill="none" stroke="#000" stroke-width="1.4" />
+  </g>
+</svg>

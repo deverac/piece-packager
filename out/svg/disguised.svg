@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewbox="0.0 0.0 512.0 512.0">
+  <g id="bb" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="bk" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="bn" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="bp" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="bq" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="br" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="wb" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" fill="#fff" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="wk" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" fill="#fff" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="wn" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" fill="#fff" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="wp" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" fill="#fff" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="wq" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" fill="#fff" stroke="#000" stroke-width="20" />
+  </g>
+  <g id="wr" transform="scale(0.078125 0.078125)">
+    <circle cx="256" cy="256" r="170" fill="#fff" stroke="#000" stroke-width="20" />
+  </g>
+</svg>

@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang='eng'>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Piece Viewer</title>
+
+    <script type="text/javascript">
+
+    function setFilename(name) {
+        document.getElementById('pieceName').innerText = 'File: '+name;
+    }
+
+    function updatePieces(file) {
+        setFilename('')
+
+        fetch(file)
+          .then(response => {
+            if (response.ok) {
+              return response.text();
+            }
+            throw new Error(`HTTP error! status: ${response.status}`);
+          })
+          .then(text => {
+              document.getElementById('svgSrc').innerHTML = text;
+
+              setFilename(file);
+
+              const xmlns = "http://www.w3.org/2000/svg";
+              const setEl = document.getElementById('pieceSet');
+              setEl.innerHTML = '';
+              const scale = 3;
+              const sz = scale * '40';
+              // The 'for' loops determine the display order.
+              for (const color of ['b', 'w']) {
+                  for (const piece of ['k', 'q', 'b', 'n', 'r', 'p']) {
+                      const svg = document.createElementNS(xmlns, 'svg');
+                      svg.setAttributeNS(null, 'width', sz);
+                      svg.setAttributeNS(null, 'height', sz);
+                      var use = document.createElementNS(xmlns, 'use');
+                      svg.appendChild(use)
+                      use.setAttributeNS(null, 'transform', `scale(${scale}, ${scale})`);
+                      use.setAttributeNS(null, 'href', `#${color}${piece}`);
+                      setEl.appendChild(svg)
+                  }
+                  setEl.appendChild(document.createElement('br'))
+              }
+           })
+          .catch(error => {
+            document.getElementById('pieceSet').innerHTML = `<div>Error: Failed to retrieve ${file}.</div>`;
+            console.error('Error fetching file:', error);
+          });
+    }
+
+    function populatePngSelect() {
+        const pngNames = ['standard', 'pngegg'];
+        const sel = document.getElementById('pngSel');
+        _populateSelect(sel, 'png', pngNames);
+    }
+
+    function populateSvgSelect() {
+        // To create list:
+        //   cd svg; for dir in */; do echo "'${dir%/}',"; done > ../names.txt
+        const svgNames = [
+            'adventurer',
+            'adventurer_berry',
+            'adventurer_brown',
+            'adventurer_grass',
+            'alfarishy',
+            'alfarishy_berry',
+            'alfarishy_blue',
+            'alfarishy_pink',
+            'alfonso-x',
+            'alfonso-x_brown',
+            'alfonso-x_grape',
+            'alfonso-x_toy',
+            'alpha',
+            'alpha_ink',
+            'alpha_mint',
+            'alpha_wood',
+            'anarchy',
+            'anarchy_candy',
+            'anarchy_fresh',
+            'anarchy_halloween',
+            'anarchy-plug',
+            'anarchy-plug_candy',
+            'anarchy-plug_fresh',
+            'anarchy-plug_sepia',
+            'anarchy_sepia',
+            'ansuz',
+            'bagnall',
+            'berlin',
+            'berlin_blue',
+            'berlin_loulou',
+            'berlin_maroon',
+            'caliente',
+            'caliente_blue',
+            'caliente_pink',
+            'caliente_wood',
+            'california',
+            'california_brown',
+            'california_green',
+            'california_red',
+            'californiaxxx',
+            'cardinal',
+            'cardinal_blue',
+            'cardinal_brown',
+            'cardinal_green',
+            'cases',
+            'cases_cocoa',
+            'cases_forest',
+            'cases_gray',
+            'cburnett',
+            'cburnett_blue',
+            'cburnett_brown',
+            'cburnett_purple',
+            'celtic',
+            'checkers',
+            'checkers_cute',
+            'checkers_grape',
+            'checkers_wood',
+            'chess7',
+            'chess7_calm',
+            'chess7_pink',
+            'chess7_yellow',
+            'chessnut',
+            'chessnut_blue',
+            'chessnut_brown',
+            'chessnut_burgundy',
+            'chicago',
+            'companion',
+            'companion_cyan',
+            'companion_eggplant',
+            'companion_red',
+            'condal',
+            'condal_cold',
+            'condal_halloween',
+            'condal_mustard',
+            'condal_warm',
+            'cooke',
+            'disguised',
+            'dmuysi',
+            'dmuysi_cotton',
+            'dmuysi_kournikova',
+            'dmuysi_marzipan',
+            'dubrovny',
+            'dubrovny_brown',
+            'dubrovny_bw',
+            'dubrovny_green',
+            'echiquier',
+            'echiquier_flesh',
+            'echiquier_grape',
+            'echiquier_ink',
+            'fantasy',
+            'fantasy_calm',
+            'fantasy_cold',
+            'fantasy_warm',
+            'fresca',
+            'fresca_camelot',
+            'fresca_matisse',
+            'fresca_zucchini',
+            'gioco',
+            'gioco_metal',
+            'gioco_purple',
+            'gioco_wood',
+            'governor',
+            'governor_bw',
+            'governor_patina',
+            'governor_purple',
+            'green',
+            'harlequin',
+            'harlequin_gold',
+            'harlequin_neon',
+            'harlequin_peach',
+            'horsey',
+            'horsey_blue',
+            'horsey_pink',
+            'horsey_purple',
+            'icon54',
+            'icon54_brown',
+            'icon54_gray',
+            'icon54_neon',
+            'icpieces',
+            'icpieces_blue',
+            'icpieces_brown',
+            'icpieces_maroon',
+            'kingdom',
+            'kingdom_blue',
+            'kingdom_brown',
+            'kingdom_sulu',
+            'kiwen-suwi',
+            'kosal',
+            'kosal_blue',
+            'kosal_red',
+            'kosal_violet',
+            'leipzig',
+            'leipzig_berry',
+            'leipzig_nature',
+            'leipzig_niagara',
+            'letter',
+            'letters',
+            'letters_cold',
+            'letters_dim',
+            'letters_warm',
+            'libra',
+            'libra_plum',
+            'libra_sea',
+            'libra_v0',
+            'libra_wood',
+            'line',
+            'line_berry',
+            'line_purple',
+            'line_toy',
+            'lucena',
+            'lucena_blue',
+            'lucena_brown',
+            'lucena_pink',
+            'maestro',
+            'maestro_blue',
+            'maestro_brown',
+            'maestro_pink',
+            'maestro_v6',
+            'magnetic',
+            'magnetic_brown',
+            'magnetic_lila',
+            'magnetic_orange',
+            'mark',
+            'mark_brown',
+            'mark_grape',
+            'mark_green',
+            'marroquin',
+            'marroquin_eggplant',
+            'marroquin_rajah',
+            'marroquin_toy',
+            'maya',
+            'maya_brown',
+            'maya_cold',
+            'maya_warm',
+            'mediaeval',
+            'mediaeval_brown',
+            'mediaeval_green',
+            'mediaeval_orange',
+            'merida',
+            'merida_cyan',
+            'merida_ink',
+            'merida_traffic',
+            'millennia',
+            'millennia_blue',
+            'millennia_green',
+            'millennia_sand',
+            'monarchy',
+            'mono',
+            'motif',
+            'motif_green',
+            'motif_maroon',
+            'motif_purple',
+            'mpchess',
+            'oldstyle',
+            'oldstyle_bondi',
+            'oldstyle_brown',
+            'oldstyle_gossip',
+            'oslo',
+            'pirat',
+            'pirat_maroon',
+            'pirat_peach',
+            'pirat_sea',
+            'pirouetti',
+            'pirouetti_border',
+            'pirouetti_border_coral',
+            'pirouetti_border_grass',
+            'pirouetti_border_winter',
+            'pirouetti_dream',
+            'pirouetti_mint',
+            'pirouetti_summer',
+            'pixel',
+            'pixel_juicy',
+            'pixel_neon',
+            'pixel_spring',
+            'qootee',
+            'qootee_grape',
+            'qootee_pink',
+            'qootee_summer',
+            'regular',
+            'regular_green',
+            'regular_ink',
+            'regular_purple',
+            'reillycraig',
+            'reillycraig_dixie',
+            'reillycraig_lawn',
+            'reillycraig_tamarind',
+            'rhosgfx',
+            'riohacha',
+            'riohacha_cute',
+            'riohacha_spring',
+            'riohacha_winter',
+            'saakyan',
+            'saakyan_blue',
+            'saakyan_coco',
+            'saakyan_grape',
+            'shapes',
+            'shapes_blue',
+            'shapes_brown',
+            'shapes_cute',
+            'smart',
+            'smart_apricot',
+            'smart_blue',
+            'smart_cocoa',
+            'spatial',
+            'spatial_blue',
+            'spatial_salmon',
+            'spatial_summer',
+            'staunty',
+            'staunty_blue',
+            'staunty_lila',
+            'staunty_wood',
+            'symmetric',
+            'symmetric_blue',
+            'symmetric_brown',
+            'symmetric_purple',
+            'symmetric_shaded',
+            'tagged',
+            'tatiana',
+            'tatiana_calm',
+            'tatiana_sweet',
+            'tatiana_wood',
+            'tfb',
+            'tfb_brown',
+            'tfb_green',
+            'tfb_purple',
+            'traveller',
+            'traveller_blue',
+            'traveller_brown',
+            'traveller_green',
+            'trendy',
+            'trendy_brown',
+            'trendy_fresh',
+            'trendy_ink',
+            'utrecht',
+            'utrecht_crimson',
+            'utrecht_mirage',
+            'utrecht_violet',
+            'vecon',
+            'vecon_baltic',
+            'vecon_cute',
+            'vecon_hemlock',
+            'wisdom',
+            'wisdom_blue',
+            'wisdom_brown',
+            'wisdom_grape',
+            'xkcd',
+        ];
+        const sel = document.getElementById('svgSel');
+        _populateSelect(sel, 'svg', svgNames);
+    }
+
+    function _populateSelect(sel, type, names) {
+        for (const str of names) {
+            var opt = document.createElement('option');
+            opt.setAttribute('value', `./out/${type}/${str}.svg`);
+            opt.innerText = str;
+            sel.appendChild(opt);
+        }
+    }
+
+    function init() {
+        populatePngSelect();
+        populateSvgSelect();
+        pickType('svg')
+        updatePieces(document.getElementById('svgSel').value);
+        document.getElementById('svgSel').focus();
+    }
+
+    function pickType(val) {
+        const svgSel = document.getElementById('svgSel');
+        const pngSel = document.getElementById('pngSel');
+        if (val == 'png') {
+            pngSel.style.display = 'inline';
+            svgSel.style.display = 'none';
+            updatePieces(pngSel.value);
+        } else {
+            pngSel.style.display = 'none';
+            svgSel.style.display = 'inline';
+            updatePieces(svgSel.value);
+        }
+    }
+</script>
+
+</head>
+<body onload='init()'  style='background-color: lightblue'>
+
+<div id='svgSrc' style='display: none'></div>
+
+<div id='pieceName'></div>
+
+<div id='pieceSet'></div>
+
+<select id='typeSel' onchange='pickType(this.value)'>
+    <option value='svg' selected >SVG sets</option>
+    <option value='png'>PNG sets</option>
+</select>
+
+<select id='pngSel' onchange='updatePieces(this.value)'></select>
+
+<select id='svgSel' onchange='updatePieces(this.value)'></select>
+
+</body>
+</html>
